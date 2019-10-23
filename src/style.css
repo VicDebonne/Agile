@@ -30,7 +30,7 @@ p {
 }
 
 
-main{
+.quoties{
   display: flex;
   justify-content: row;
 }
